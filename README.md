@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](https://velog.io/@shinminsoo317/posts)
 
 <!--
 **minso0317/minso0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
