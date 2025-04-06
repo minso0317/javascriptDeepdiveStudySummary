@@ -1,5 +1,6 @@
-Javascript Deepdive Chapter 04
-
+## Javascript Deepdive 
+### Chapter 04 변수
+ <br>
 4.1 변수란 무엇인가? 왜 필요한가? <br>
 4.2 식별자 <br>
 4.3 변수 선언 <br>
