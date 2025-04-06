@@ -1,4 +1,4 @@
-### Javascript Deeptdive Summary Note
+### Javascript Deepdive Summary Note
 ![javascript-image](https://velog.velcdn.com/images/shinminsoo317/post/5946f7af-09c7-4da8-af52-c14c0765eac3/image.jpeg)
 
 
