@@ -1,4 +1,9 @@
-### Javascript Deepdive Summary Note
+## Javascript Deepdive Summary Note
+
+
+📔 각 장(Chapter)의 브랜치로 이동하시면 단원(unit)의 개념 요약이 있습니다.
+<br>
+
 ![javascript-image](https://velog.velcdn.com/images/shinminsoo317/post/5946f7af-09c7-4da8-af52-c14c0765eac3/image.jpeg)
 
 
